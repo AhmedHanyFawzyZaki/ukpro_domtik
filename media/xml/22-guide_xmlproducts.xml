@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE merchantProductFeed SYSTEM "http://www.affiliatewindow.com/DTD/affiliate/datafeed.1.3.dtd">
+<merchantProductFeed>
+    <merchant>
+
+
+         
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="ELECTRONICS">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Trrrr</procat>
+                    <subcat>fffffffff</subcat>
+                </cat>
+                <text>
+                    <title>Lut</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>33.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                 <colors>red,blue</colors>
+             
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+
+        </websiteCat>
+        <!-- end website Category --> 
+
+
+
+    </merchant>
+</merchantProductFeed>

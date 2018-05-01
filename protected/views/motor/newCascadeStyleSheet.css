@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 8, 2014, 1:26:11 PM
+    Author     : salah
+*/
+
+
+#facebook_right{
+    
+   margin-right: -204px;
+    position: fixed;
+    right: 0;
+    top: 12%;
+    z-index: 2000000;
+}
+#facebook_right iframe{
+    background: #fff;
+}
+#twitter_right{
+margin-right: -215px;
+    position: fixed;
+    right: 0;
+    top: 33% !important;
+    
+}

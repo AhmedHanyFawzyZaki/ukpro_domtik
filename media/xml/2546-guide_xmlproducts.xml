@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE merchantProductFeed SYSTEM "http://www.affiliatewindow.com/DTD/affiliate/datafeed.1.3.dtd">
+<merchantProductFeed>
+    <merchant>
+        
+        <!-- website Category --> 
+        <websiteCat name="CLOTHING">
+     
+            <!-- product --> 
+            <prod>
+                <cat>
+                    <procat>dress</procat>
+                    <subcat>Subcategory1</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETfSTARTKIT Console Games Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                   
+                </price>
+                <stock_quantity>33</stock_quantity>
+            
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+            
+                <colors>red,blue,brown</colors>
+                <sizes>cl1,cl2</sizes>
+                <gender>male</gender>
+           
+          
+            </prod>
+            <!-- end product --> 
+
+            <!-- product --> 
+            <prod>
+                <cat>
+                    <procat>dress</procat>
+                    <subcat>Subcategory1</subcat>
+                </cat>  
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+            
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+            
+                <colors>red,blue,green</colors>
+                <sizes>cl1,cl2</sizes>
+                <gender>male</gender>
+           
+          
+            </prod>
+            <!-- end product --> 
+
+        
+            <!-- product --> 
+            <prod>
+                <cat>
+                    <procat>dress</procat>
+                    <subcat>Subcategory1</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+            
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+            
+                <colors>red,blue,green</colors>
+                <sizes>cl1,cl2</sizes>
+                <gender>male</gender>
+           
+          
+            </prod>
+            <!-- end product --> 
+          
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+         
+         
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="COSMETIC">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Hair Care</procat>
+                    <subcat>subcat6</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+            
+                <gender>men</gender>
+                
+                <cosmeticSizes> 
+                    <sizee>
+                    <size>100 Mm</size>
+                    <price>223</price>
+                    <quantity>5</quantity>
+                    </sizee>
+                    
+                    <sizee>
+                    <size>100 Mm</size>
+                    <price>222</price>
+                    <quantity>4</quantity>
+                    </sizee>
+                </cosmeticSizes>
+               
+               
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Hair Care</procat>
+                    <subcat>subcat6</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+            
+              <cosmeticSizes>
+                    <sizee>
+                    <size>100 Mm</size>
+                    <price>223</price>
+                    <quantity>5</quantity>
+                    </sizee>
+                    
+                    <sizee>
+                    <size>100 Mm</size>
+                    <price>222</price>
+                    <quantity>4</quantity>
+                    </sizee>
+                </cosmeticSizes>
+                 
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+         
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="JEWLERY">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Anklets</procat>
+                    <subcat>subcat</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+                <size>25</size>
+                <status>active</status>   
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Anklets</procat>
+                    <subcat>subcat</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+                <size>25</size>
+                <status>active</status>   
+           
+            </prod>
+            <!-- end product --> 
+          
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="MOTOR">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>motor</procat>
+                    <subcat>subcat</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+                <colors>red,blue</colors>
+                
+                
+            <motorDetails>
+                <Manufacur>BMW</Manufacur>
+                <model>ferrari</model>
+                <gas>diesel</gas>
+                <door>2 doors</door>
+                <kmage>up to 1.000 km</kmage>
+                <age>up to 1 year old</age>
+                <emission>up to 100 G / km co2</emission>
+                <engine>1.7 L - 1.9 L</engine>
+                <powerEngine>100 CV</powerEngine>
+                <conditions> conditions</conditions>
+                <motorStatus>Unused</motorStatus>
+            </motorDetails>
+                
+               
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+        
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>motor</procat>
+                    <subcat>subcat</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                <gallery>
+                    <first>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</first>
+                    <second>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</second>
+                    <third>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</third>
+                    <fourth>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</fourth>
+                </gallery>
+                <colors>red,blue</colors>
+                
+          <motorDetails>
+                <Manufacur>BMW</Manufacur>
+                <model>ferrari</model>
+                <gas>diesel</gas>
+                <door>2 doors</door>
+                <kmage>up to 1.000 km</kmage>
+                <age>up to 1 year old</age>
+                <emission>up to 100 G / km co2</emission>
+                <engine>1.7 L - 1.9 L</engine>
+                <powerEngine>100 CV</powerEngine>
+                <conditions> conditions</conditions>
+                <motorStatus>Unused</motorStatus>
+            </motorDetails>
+           
+            </prod>
+            <!-- end product --> 
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+         
+         
+           
+         
+        <!-- website Category --> 
+        <websiteCat name="HOME DÉCOR">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>BedRoom</procat>
+                    <subcat>sub</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+             <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+                <sizes>3*5 , 2.5*3</sizes>
+                 <colors>red,blue</colors>
+                
+            <decorStyle>Modern</decorStyle>
+            <decorType>DecorType1</decorType>
+            <dimensions>dimensions</dimensions>
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+        
+         
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>BedRoom</procat>
+                    <subcat>sub</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+                <sizes>3*5 , 2.5*3</sizes>
+                 <colors>red,blue</colors>
+                
+            <decorStyle>Modern</decorStyle>
+            <decorType>DecorType1</decorType>
+            <dimensions>dimensions</dimensions>
+           
+            </prod>
+            <!-- end product --> 
+          
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="ELECTRONICS">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Accessories</procat>
+                    <subcat>subcat6</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                 <colors>red,blue</colors>
+             
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Accessories</procat>
+                    <subcat>subcat6</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                 <colors>red,blue</colors>
+             
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+          
+        <!-- website Category --> 
+        <websiteCat name="KIDS">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Birthday Gifts</procat>
+                    <subcat>subcat8</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                 <colors>red,blue</colors>
+                 <sizes>0-3M , 3-9M</sizes>
+             
+                 <kidsType>baby</kidsType>
+                 <kidsFor>Fashion</kidsFor>
+           
+            </prod>
+            <!-- end product --> 
+          
+           <prod>
+                <cat>
+                    <procat>Birthday Gifts</procat>
+                    <subcat>subcat8</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                    
+                </img>
+            
+                <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                 <colors>red,blue</colors>
+                 <sizes>0-3M , 3-9M</sizes>
+             
+                 <kidsType>baby</kidsType>
+                 <kidsFor>Fashion</kidsFor>
+           
+            </prod>
+            <!-- end product --> 
+          
+           
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="LYFESTYLE">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>art</procat>
+                    <subcat>subcat3</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                     <thumb>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</thumb>
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                <type>product</type>  <!-- product or service -->
+           
+           <!-- if type is service -->
+            <country> canada</country>
+            <city>alberta</city>
+            <postCode>2222</postCode>
+            
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+          
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>art</procat>
+                    <subcat>subcat3</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                    
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+               
+                <type>product</type>  <!-- product or service -->
+           
+           <!-- if type is service -->
+            <country> canada</country>
+            <city>alberta</city>
+            <postCode>address</postCode>
+            
+           
+            </prod>
+            <!-- end product --> 
+        </websiteCat>
+        <!-- end website Category --> 
+         
+         
+        <!-- website Category --> 
+        <websiteCat name="REAL STATE">
+     
+            <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Homes</procat>
+                    <subcat>subcat5</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                    
+                </img>
+            
+                <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+                
+               
+                <type>product</type>  <!-- product or service -->
+           
+           <!-- if type is service -->
+            <country> canada</country>
+            <city>alberta</city>
+            <address>address</address>
+            <postcode>2222</postcode>
+            <type>rent</type>
+            <facilities>facilites</facilities>
+           
+            </prod>
+            <!-- end product --> 
+          
+          
+          
+         <!-- product --> 
+                        
+            <prod>
+                <cat>
+                    <procat>Homes</procat>
+                    <subcat>subcat5</subcat>
+                </cat>
+                <text>
+                    <title>4 Gamers HEADSETSTARTKIT Console Games &amp;amp; Accessories</title>
+                    <desc>This Stereo Gaming Headset Starter Kit offers everything you need, including a lightweight stereo gaming headset, sleek desktop storage stand and twin controller charging cable all in one convenient package.</desc>
+                </text>
+            
+                <price curr="GBP">
+                    <price>39.99</price>
+                    
+                    
+                </price>
+                <stock_quantity>33</stock_quantity>
+           
+                <brand>brand1</brand>
+                <img>
+                    <main>http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg</main>
+                    
+                </img>
+            
+                 <gallery>
+                   <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+                  <img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+<img large="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jpg" thumb ="http://www.apollodirect.co.uk/common/productpictures/4gm-headsetstartkit.jp"></img>
+
+                </gallery>
+               
+                <type>product</type>  <!-- product or service -->
+           
+           <!-- if type is service -->
+            <country> canada</country>
+            <city>alberta</city>
+            <address>address</address>
+            <postcode>2222</postcode>
+            <type>rent</type>
+            <facilities>facilites</facilities>
+           
+            </prod>
+            <!-- end product --> 
+          
+           
+        </websiteCat>
+        <!-- end website Category --> 
+         
+
+    </merchant>
+</merchantProductFeed>

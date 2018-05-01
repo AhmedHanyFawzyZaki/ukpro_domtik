@@ -1,0 +1,96 @@
+
+    .modal {
+  position: fixed !important;
+  top: 10%!important;
+  left: 50% !important;
+  z-index: 1050 !important;
+  width: 700px !important;
+  height: 400px !important;
+  margin-left: -280px !important;
+  background-color: #ffffff !important;
+  border: 1px solid #999 !important;
+  border: 1px solid rgba(0, 0, 0, 0.3) !important;
+  *border: 1px solid #999 !important;
+  -webkit-border-radius: 6px !important;
+     -moz-border-radius: 6px !important;
+          border-radius: 6px !important;
+  outline: none !important;
+  -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3) !important;
+     -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3) !important;
+          box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3) !important;
+  -webkit-background-clip: padding-box !important;
+     -moz-background-clip: padding-box !important;
+          background-clip: padding-box !important;
+}
+
+.input-xlarge{
+    width: 280px;
+    
+}
+
+.editPhoto{
+    display: none;
+}
+
+
+
+.btn-danger {
+    background-color: #DA4F49;
+    background-image: linear-gradient(to bottom, #EE5F5B, #BD362F);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+
+.icon-remove {
+    background-position: -312px 0;
+}
+.icon-white, .nav-pills > .active > a > [class^="icon-"], .nav-pills > .active > a > [class*=" icon-"], .nav-list > .active > a > [class^="icon-"], .nav-list > .active > a > [class*=" icon-"], .navbar-inverse .nav > .active > a > [class^="icon-"], .navbar-inverse .nav > .active > a > [class*=" icon-"], .dropdown-menu > li > a:hover > [class^="icon-"], .dropdown-menu > li > a:focus > [class^="icon-"], .dropdown-menu > li > a:hover > [class*=" icon-"], .dropdown-menu > li > a:focus > [class*=" icon-"], .dropdown-menu > .active > a > [class^="icon-"], .dropdown-menu > .active > a > [class*=" icon-"], .dropdown-submenu:hover > a > [class^="icon-"], .dropdown-submenu:focus > a > [class^="icon-"], .dropdown-submenu:hover > a > [class*=" icon-"], .dropdown-submenu:focus > a > [class*=" icon-"] {
+    background-image: url("../img/glyphicons-halflings-white.png");
+}
+[class^="icon-"], [class*=" icon-"] {
+    background-image: url("../img/glyphicons-halflings.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 14px;
+    line-height: 14px;
+    margin-top: 1px;
+    vertical-align: text-top;
+    width: 14px;
+}
+[class^="icon-"], [class*=" icon-"] {
+    background-image: url("../img/glyphicons-halflings.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 14px;
+    line-height: 14px;
+    margin-top: 1px;
+    vertical-align: text-top;
+    width: 14px;
+}
+
+  .deletePhoto{
+  background-image: url("../img/remove.png");
+  background-size: 38px 30px;
+  }
+  
+  
+.icon-white{
+     // background-image: url("../img/delete.jpeg");
+     //  background: #fff;
+}
+
+
+
+
+
+
+a {
+    color: #0088CC;
+    text-decoration: none;
+}
+
