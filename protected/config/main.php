@@ -116,9 +116,9 @@ return array(
 	),
         'Paypal' => array(
             'class' => 'application.components.Paypal',
-            'username' => 'prosel_1355392367_biz_api1.ukprosolutions.com',
-            'password' => '1355392425',
-            'signature' => 'A3wB9wrrNWpacpiQQX9SVBFeXSFJALS5DGVJQ4H9X99K1efvyNjmnZGs',
+            'username' => 'ahmed.hany.fawzy-facilitator_api1.hotmail.com',
+            'password' => 'AA86G2K284HDV3L2',
+            'signature' => 'ArcoIsSBiDf1YkCyrHH34-M8jKo3AhzsU7eWzVM9-3t50NlXZqMw6JiR',
             'sandbox' => TRUE,
             'appid'=>'APP-80W284485P519543T',
             //'returnUrl' => 'Home/confirm/', //regardless of url management component
@@ -126,9 +126,9 @@ return array(
         ),
         'PaypalExpress' => array(
             'class' => 'application.components.PaypalExpress',
-             'apiUsername' => 'prosel_1355392367_biz_api1.ukprosolutions.com',
-             'apiPassword' => '1355392425',
-             'apiSignature' => 'A3wB9wrrNWpacpiQQX9SVBFeXSFJALS5DGVJQ4H9X99K1efvyNjmnZGs',
+             'apiUsername' => 'ahmed.hany.fawzy-facilitator_api1.hotmail.com',
+             'apiPassword' => 'AA86G2K284HDV3L2',
+             'apiSignature' => 'ArcoIsSBiDf1YkCyrHH34-M8jKo3AhzsU7eWzVM9-3t50NlXZqMw6JiR',
             'apiLive' => FALSE,
             'currency' => 'GBP',
            // 'returnUrl' => 'home/orderconfirm/', //regardless of url management component

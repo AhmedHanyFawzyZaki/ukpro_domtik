@@ -450,9 +450,9 @@ foreach ($allcats as $cat) {
 
 
         <li class="events">
-            <a class="btn" href="<?php echo Yii::app()->baseUrl; ?>/admin/Orders">
+            <a class="btn" href="<?php echo Yii::app()->baseUrl; ?>/admin/order">
                 <span class="fa fa-file"></span>
-                <span class="shortcuts-label">Order </span>
+                <span class="shortcuts-label">Orders </span>
             </a>
         </li>
 

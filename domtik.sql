@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50505
 File Encoding         : 65001
 
-Date: 2018-05-02 00:35:03
+Date: 2018-05-11 22:27:06
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -899,7 +899,7 @@ CREATE TABLE `favourite` (
   KEY `index_id21` (`id`) USING BTREE,
   KEY `productfavourite` (`product_id`) USING BTREE,
   KEY `userfavourite` (`user_id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=54 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=55 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of favourite
@@ -916,6 +916,7 @@ INSERT INTO `favourite` VALUES ('49', '608', '2', null, null, '0');
 INSERT INTO `favourite` VALUES ('51', '610', '3', null, null, '0');
 INSERT INTO `favourite` VALUES ('52', '533', '3', null, null, '0');
 INSERT INTO `favourite` VALUES ('53', '516', null, null, null, '0');
+INSERT INTO `favourite` VALUES ('54', '782', '1', null, null, '0');
 
 -- ----------------------------
 -- Table structure for `fee_package`
@@ -11062,31 +11063,13 @@ CREATE TABLE `order` (
   `billing_post_code` varchar(255) DEFAULT NULL,
   `billing_address` text,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of order
 -- ----------------------------
-INSERT INTO `order` VALUES ('9', '2014-10-02 11:01:20', '9615.00', '9600.00', '15.00', 'AP-37738448P46795406', '1', '2', '240.00', null, '1', '1', '21491990', 'test', '1', '1', '21491990', 'test');
-INSERT INTO `order` VALUES ('10', '2014-10-02 11:05:43', '9615.00', '9600.00', '15.00', 'AP-0TY286452F784723C', '1', '2', '240.00', null, '1', '1', '21491990', 'fgdh', '1', '1', '21491990', 'erte5y');
-INSERT INTO `order` VALUES ('11', '2014-10-02 11:07:38', '9615.00', '9600.00', '15.00', 'AP-2FE82779AW635612S', '1', '2', '240.00', null, '1', '1', '21491990', 'zcxvbn', '1', '1', '21491990', 'zxcvbnm,');
-INSERT INTO `order` VALUES ('12', '2014-10-02 11:13:17', '9615.00', '9600.00', '15.00', 'AP-1BJ45640TW2576102', '1', '2', '240.00', null, '1', '1', '21491990', 'ghjhgk', '1', '1', '21491990', 'sdfdghj');
-INSERT INTO `order` VALUES ('13', '2014-10-02 11:18:41', '9615.00', '9600.00', '15.00', 'AP-25F87305AF5525605', '1', '2', '240.00', null, '1', '1', '21491990', 'fsasfa', '1', '1', '21491990', 'dfsdf');
-INSERT INTO `order` VALUES ('14', '2014-10-02 11:23:05', '9615.00', '9600.00', '15.00', 'AP-0RU38316B72523745', '1', '2', '240.00', null, '1', '1', '21491990', 'dsfsdfs', '1', '1', '21491990', 'dfsdf');
-INSERT INTO `order` VALUES ('15', '2014-10-02 11:31:07', '9615.00', '9600.00', '15.00', 'AP-0W230498MP463890K', '2', '2', '240.00', null, '1', '1', '21491990', 'ewrty', '1', '1', '21491990', 'sdfgh');
-INSERT INTO `order` VALUES ('16', '2014-10-02 11:41:33', '9615.00', '9600.00', '15.00', 'AP-57U67682W9645833V', '2', '2', '240.00', null, '1', '1', '21491990', 'd', '1', '1', '21491990', 'ddd');
-INSERT INTO `order` VALUES ('17', '2014-10-02 13:25:56', '19215.00', '19200.00', '15.00', 'AP-9SX24602LH846145B', '3', '2', '480.00', null, '1', '1', '21491990', 'wertyu', '1', '1', '21491990', 'werty');
-INSERT INTO `order` VALUES ('18', '2014-10-28 16:05:20', '7445.00', '7430.00', '15.00', 'AP-9JR86692BX5889511', '1', '1', '0.00', null, '1', '1', '1234', 'csdsfsdf', '14', '1', '1234', 'dsdsdsad');
-INSERT INTO `order` VALUES ('19', '2014-11-03 12:28:14', '1515.00', '1500.00', '15.00', 'AP-8CA19758KU035393W', '1', '2', '37.50', null, '1', '1', '21491990', 'test', '1', '1', '21491990', 'tets');
-INSERT INTO `order` VALUES ('20', '2014-11-03 16:17:23', '2515.00', '2500.00', '15.00', 'AP-14218388LC1269331', '1', '2', '62.50', null, '1', '1', '21491990', 'test', '1', '1', '21491990', 'test');
-INSERT INTO `order` VALUES ('21', '2014-11-03 16:27:35', '365.00', '350.00', '15.00', 'AP-21530434CP146960T', '2', '2', '8.75', null, '1', '1', '21491990', 'ad', '1', '1', '21491990', 'dqwe');
-INSERT INTO `order` VALUES ('22', '2014-11-03 16:29:39', '1380.00', '1350.00', '30.00', 'AP-4JF44551D8102543M', '1', '3', '8.75', null, '1', '1', '23252', 'etrt', '1', '1', '23252', 'rtert');
-INSERT INTO `order` VALUES ('23', '2014-11-03 16:29:59', '1380.00', '1350.00', '30.00', 'AP-31A03439UU498303B', '1', '3', '8.75', null, '1', '1', '23252', 'etrt', '1', '1', '23252', 'rtert');
-INSERT INTO `order` VALUES ('24', '2014-11-03 16:30:13', '1380.00', '1350.00', '30.00', 'AP-4AE62265GP995362H', '2', '3', '8.75', null, '1', '1', '23252', 'etrt', '1', '1', '23252', 'rtert');
-INSERT INTO `order` VALUES ('25', '2014-11-03 16:31:41', '4530.00', '4500.00', '30.00', 'AP-86L844648T5436309', '2', '3', '112.50', null, '1', '1', '23252', '5454', '1', '1', '23252', 'tgfgf');
-INSERT INTO `order` VALUES ('26', '2014-12-01 15:23:51', '3665.00', '3650.00', '15.00', 'AP-71109923JA083851P', '1', '1', '0.00', null, '1', '1', '1234', 'fdtgfdg', '1', '1', '1234', 'gfdgfdg');
-INSERT INTO `order` VALUES ('27', '2014-12-07 10:44:04', '115.00', '100.00', '15.00', 'AP-8PJ59135B16621936', '1', '1', '0.00', null, '1', '1', '1234', 'ewrfewre', '1', '1', '1234', 'fdfdf');
-INSERT INTO `order` VALUES ('28', '2014-12-07 12:16:35', '65.00', '50.00', '15.00', 'AP-07H65866011427048', '1', '1', '0.00', null, '1', '1', '1234', 'rtrt', '1', '1', '1234', 'rsdr');
+INSERT INTO `order` VALUES ('1', '2018-05-11 22:20:20', '105.00', '90.00', '15.00', 'AP-9TM0761717062160F', '1', '1', '0.00', null, '1', '1', '1234', 'sfsa', '1', '1', '1234', 'ggfgd');
+INSERT INTO `order` VALUES ('2', '2018-05-11 22:22:37', '105.00', '90.00', '15.00', 'AP-66753467FF0678218', '2', '1', '0.00', null, '1', '1', '1234', 'sfsa', '1', '1', '1234', 'ggfgd');
 
 -- ----------------------------
 -- Table structure for `order_details`
@@ -11110,7 +11093,7 @@ CREATE TABLE `order_details` (
   `sort` int(11) DEFAULT NULL,
   `seller_id` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=38 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of order_details
@@ -11139,6 +11122,8 @@ INSERT INTO `order_details` VALUES ('34', '25', '603', '5454', '1', '1', '23252'
 INSERT INTO `order_details` VALUES ('35', '26', '734', 'fdtgfdg', '1', '1', '1234', '15.00', '3665.00', '3650.00', '1', 'N/A', 'N/A', '0.00', null, '3');
 INSERT INTO `order_details` VALUES ('36', '27', '708', 'ewrfewre', '1', '1', '1234', '15.00', '115.00', '100.00', '2', 'N/A', 'N/A', '0.00', null, '3');
 INSERT INTO `order_details` VALUES ('37', '28', '708', 'rtrt', '1', '1', '1234', '15.00', '65.00', '50.00', '1', 'N/A', 'N/A', '0.00', null, '3');
+INSERT INTO `order_details` VALUES ('38', '1', '477', 'sfsa', '1', '1', '1234', '15.00', '105.00', '90.00', '1', null, null, '0.00', null, '3');
+INSERT INTO `order_details` VALUES ('39', '2', '477', 'sfsa', '1', '1', '1234', '15.00', '105.00', '90.00', '1', null, null, '0.00', null, '3');
 
 -- ----------------------------
 -- Table structure for `order_status`
@@ -13083,15 +13068,7 @@ CREATE TABLE `user` (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES ('1', 'admin', 'Test2@ukprosoltest.com', 'vu0FNI3KGj5/Bgza58leFA==', 'John', 'Adm', '', 0x7468652073757065722061646D696E2075736572, '1', '1', '0', '', '2015-01-20 10:00:43', '1', '2', '30', '1', '', '2015-10-11 ', '1', '1', 'mlLx');
-INSERT INTO `user` VALUES ('2', 'buyer', 'test99@ukprosoltest.com', 'vu0FNI3KGj5/Bgza58leFA==', 'David', 'Lowis', null, 0x42757920616E79207468696E6720, '3', '1', '0', '', '2015-01-28 09:38:14', '3', '0', '5', null, null, '2015-10-11 ', '1', '1', 'xhJt');
-INSERT INTO `user` VALUES ('3', 'seller', 'test4@ukprosoltest.com', 'vu0FNI3KGj5/Bgza58leFA==', 'Maichel ', 'Adm ', '2209-app_icon.png', 0x746573742074657374, '4', '1', '0', '', '2015-01-05 11:19:33', '2', '0', '90', '1', null, '2015-10-11 ', '1', '0', null);
-INSERT INTO `user` VALUES ('4', 'test', 'test@test.com', 'xtbjYn+tyxFEbmSbVVgqsg==', null, null, null, null, '3', '1', '1', 'UQmDyIZeha', '2014-09-16 18:34:21', '0', '0', '30', null, null, '2014-12-31', '1', null, null);
-INSERT INTO `user` VALUES ('5', 'test seller', 'seller@test.com', 'KDP8Zgd+4O6YKaM1zUtSRg==', 'seller', 'seller', null, null, '4', '0', '0', '', null, '0', '0', '30', null, null, '2014-12-31', '1', null, null);
-INSERT INTO `user` VALUES ('6', 'asd', 'asd@asd.asd', 'izvukrqK1f9R+eby8I2Rhw==', null, null, null, null, '3', '1', '0', null, '2014-12-14 09:55:27', '0', '0', '0', null, null, null, '0', null, null);
-INSERT INTO `user` VALUES ('8', 'fci', 'fci@fci.com', 'lhHVzCzXQxBpAXgWfKr5Vw==', null, null, null, null, '3', '1', '0', null, '2014-09-17 14:52:43', '0', '0', '0', null, null, null, '0', null, null);
-INSERT INTO `user` VALUES ('9', 'AdamBMW', null, '2yqQpc8jQDa9CFhwp31W2g==', null, null, null, null, '3', '0', '0', null, null, '0', '0', '0', null, null, null, '0', '0', null);
-INSERT INTO `user` VALUES ('10', 'test username', 'email@ukprosolutions.com', 'xtbjYn+tyxFEbmSbVVgqsg==', null, null, null, null, '3', '0', '0', null, null, '0', '0', '0', null, null, null, '0', '0', null);
+INSERT INTO `user` VALUES ('1', 'admin', 'admin@admin.com', 'GyAYtNO6XVtVbsnayx9ubQ==', 'John', 'Adm', '', 0x7468652073757065722061646D696E2075736572, '1', '1', '0', '', '2018-05-11 22:15:59', '1', '2', '30', '1', '', '2015-10-11 ', '1', '1', 'mlLx');
 INSERT INTO `user` VALUES ('11', 'tst', 'tst@tst.com', '5dcP6shWMqK42p1eOiFhKQ==', null, null, null, null, '3', '0', '0', null, null, '0', '0', '0', null, null, null, '0', '0', null);
 INSERT INTO `user` VALUES ('12', 'tst1', 'tst@tst1.com', '5dcP6shWMqK42p1eOiFhKQ==', null, null, null, null, '3', '0', '0', null, null, '0', '0', '0', null, null, null, '0', '0', null);
 INSERT INTO `user` VALUES ('13', 'tster', 'tster@mail.com', '5dcP6shWMqK42p1eOiFhKQ==', null, null, null, null, '3', '0', '0', null, null, '0', '0', '0', null, null, null, '0', '0', null);

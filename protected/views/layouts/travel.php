@@ -454,7 +454,7 @@
 
 <div class="col-md-12">
                 <p class="download pull-right">Download Our Application: <a href="<?php echo Helper::yiiparam('exclusive_app') ?>">Exclusive App</a> | <a href="<?php echo Helper::yiiparam('instgram_app') ?>">Instgram App</a></p>
-                <p class="download pull-right">copyright © 2014 . All Rights Reserved . UK pro solutions ltd</p>
+                <p class="download pull-right">copyright © 2014 . All Rights Reserved .</p>
             </div>
 
 </div>

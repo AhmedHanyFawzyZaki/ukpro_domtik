@@ -168,11 +168,11 @@ class User extends CActiveRecord {
         return User::simple_encrypt($value);
     }
 
-    public static function simple_encrypt($text, $salt = "Ukprosol") {
+    public static function simple_encrypt($text, $salt = "supertestpass123") {
         return trim(base64_encode(mcrypt_encrypt(MCRYPT_RIJNDAEL_128, $salt, $text, MCRYPT_MODE_ECB, mcrypt_create_iv(mcrypt_get_iv_size(MCRYPT_RIJNDAEL_128, MCRYPT_MODE_ECB), MCRYPT_RAND))));
     }
 
-    public static function simple_decrypt($text, $salt = "Ukprosol") {
+    public static function simple_decrypt($text, $salt = "supertestpass123") {
         return trim(mcrypt_decrypt(MCRYPT_RIJNDAEL_128, $salt, base64_decode($text), MCRYPT_MODE_ECB, mcrypt_create_iv(mcrypt_get_iv_size(MCRYPT_RIJNDAEL_128, MCRYPT_MODE_ECB), MCRYPT_RAND)));
     }
 

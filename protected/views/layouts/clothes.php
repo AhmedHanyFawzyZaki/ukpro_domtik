@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
-        <meta name="author" content="Uk Pro.Solutions LTD">
+        <meta name="author" content="">
         <title><?php echo CHtml::encode($this->pageTitle); ?></title>
         <?php
         $ipaddress = '';
@@ -765,7 +765,7 @@
                                             </div>
                                             <div class="col-md-12">
                                                 <p class="download pull-right"><a href="#">Download Our Application: Exclusive App</a> | <a href="#">Instgram App</a></p>
-                                                <p class="download pull-right">copyright © 2014 . All Rights Reserved . UK pro solution ltd</p>
+                                                <p class="download pull-right">copyright © 2014 . All Rights Reserved.</p>
                                             </div>
 
                                         </div>

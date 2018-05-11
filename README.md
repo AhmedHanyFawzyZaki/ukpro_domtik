@@ -12,4 +12,4 @@
 
 2. Update the index.php file located in the root folder and the configurations located in "protected\config".
 
-3. Navigate to url/dashboard to access the dashboard and login using "admin/admin".
+3. Navigate to url/admin to access the dashboard and login using "admin/admin".
